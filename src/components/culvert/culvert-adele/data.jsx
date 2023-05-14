@@ -45,7 +45,7 @@ export const data = [
   },
   {
     time: 35,
-    text: 'skin divine'
+    text: 'impenetrable divine'
   },
   {
     time: 31,

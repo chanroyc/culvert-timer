@@ -30,6 +30,10 @@ const CulvertAdele = () => {
           const text = matches[0].text
           speak({ text: text })
         }
+
+        if (timeLeft <= 0) {
+          resetTimer()
+        }
       }, 1000)
 
       return () => clearInterval(intervalId)
