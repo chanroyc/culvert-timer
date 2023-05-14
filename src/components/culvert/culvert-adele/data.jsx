@@ -45,7 +45,7 @@ export const data = [
   },
   {
     time: 35,
-    text: 'impenetrable divine'
+    text: 'impenetrable skin divine wrath'
   },
   {
     time: 31,
@@ -57,7 +57,7 @@ export const data = [
   },
   {
     time: 17,
-    text: 'storm AB reign',
+    text: 'storm A B reign',
   },
   {
     time: 10,
