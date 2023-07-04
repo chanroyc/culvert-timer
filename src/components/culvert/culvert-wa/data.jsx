@@ -1,15 +1,15 @@
 export const data = [
   {
-    time: 173,
+    time: 171,
     text: 'glory'
   },
   {
-    time: 143,
+    time: 141,
     text: 'vicious storm whim'
   },
   {
-    time: 128,
-    text: 'vicious storm whim enter'
+    time: 126,
+    text: 'enter'
   },
   {
     time: 120,
