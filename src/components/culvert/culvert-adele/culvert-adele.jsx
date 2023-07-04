@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import { useSpeechSynthesis } from 'react-speech-kit'
 
 import Timer from '../../timer/timer'
 
