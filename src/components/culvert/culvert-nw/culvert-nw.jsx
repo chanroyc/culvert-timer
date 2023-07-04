@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 
 import Timer from '../../timer/timer'
@@ -9,7 +9,7 @@ const CulvertNW = () => {
   return (
     <StyledCulvertNW>
       <h1>NW Culvert</h1>
-      <Timer seconds={130} data={data} />
+      <Timer seconds={data[0].time + 4} data={data} />
     </StyledCulvertNW>
   )
 }
