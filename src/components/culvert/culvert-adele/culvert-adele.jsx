@@ -9,7 +9,7 @@ const CulvertAdele = () => {
   return (
     <StyledCulvertAdele>
       <h1>Adele Culvert</h1>
-      <Timer seconds={151} data={data} />
+      <Timer seconds={155} data={data} />
     </StyledCulvertAdele>
   )
 }

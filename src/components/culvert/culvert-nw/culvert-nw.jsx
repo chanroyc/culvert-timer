@@ -9,7 +9,7 @@ const CulvertNW = () => {
   return (
     <StyledCulvertNW>
       <h1>NW Culvert</h1>
-      <Timer seconds={126} data={data} />
+      <Timer seconds={130} data={data} />
     </StyledCulvertNW>
   )
 }
