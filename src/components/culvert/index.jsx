@@ -1,11 +1,16 @@
-import CulvertAdele from "./culvert-adele/culvert-adele";
+import CulvertAdeleV1 from "./culvert-adele-v1/culvert-adele-v1";
+import CulvertAdeleV2 from "./culvert-adele-v2/culvert-adele-v2";
 import CulvertNW from "./culvert-nw/culvert-nw";
 import CulvertWA from "./culvert-wa/culvert-wa";
 
 export default [
   {
     name: 'Adele (no cd hat)',
-    component: <CulvertAdele />,
+    component: <CulvertAdeleV1 />,
+  },
+  {
+    name: 'Adele (no cd hat)',
+    component: <CulvertAdeleV2 />,
   },
   {
     name: 'NW',

@@ -5,15 +5,15 @@ import Timer from '../../timer/timer'
 
 import { data } from './data'
 
-const CulvertAdele = () => {
+const CulvertAdeleV2 = () => {
   return (
     <StyledCulvertAdele>
-      <h1>Adele Culvert</h1>
+      <h1>Adele Culvert v2</h1>
       <Timer seconds={data[0].time + 4} data={data} />
     </StyledCulvertAdele>
   )
 }
 
-export default CulvertAdele
+export default CulvertAdeleV2
 
 const StyledCulvertAdele = styled.div``;
