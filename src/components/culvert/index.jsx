@@ -5,11 +5,11 @@ import CulvertWA from "./culvert-wa/culvert-wa";
 
 export default [
   {
-    name: 'Adele (no cd hat)',
+    name: 'Adele v1 (no cd hat)',
     component: <CulvertAdeleV1 />,
   },
   {
-    name: 'Adele (no cd hat)',
+    name: 'Adele v2 (no cd hat)',
     component: <CulvertAdeleV2 />,
   },
   {
