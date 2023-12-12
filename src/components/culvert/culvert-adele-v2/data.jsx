@@ -13,7 +13,7 @@ export const data = [
   },
   {
     time: 104,
-    text: 'storm A B reign',
+    text: 'storm reign',
   },
   {
     time: 97,
@@ -57,15 +57,11 @@ export const data = [
   },
   {
     time: 22,
-    text: 'shield',
+    text: 'shield origin',
   },
   {
     time: 16,
     text: 'storm reign',
-  },
-  {
-    time: 14,
-    text: 'A B'
   },
   {
     time: 7,
