@@ -56,8 +56,12 @@ export const data = [
     text: 'legacy infinity resonance rush'
   },
   {
+    time: 30,
+    text: 'origin',
+  },
+  {
     time: 22,
-    text: 'shield origin',
+    text: 'shield',
   },
   {
     time: 16,
