@@ -2,8 +2,9 @@ import CulvertAdeleV1 from "./culvert-adele-v1/culvert-adele-v1";
 import CulvertAdeleV2 from "./culvert-adele-v2/culvert-adele-v2";
 import CulvertNW from "./culvert-nw/culvert-nw";
 import CulvertWA from "./culvert-wa/culvert-wa";
+import CulvertDW from "./culvert-dw/culvert-dw";
 
-export default [
+const culvert = [
   {
     name: 'Adele v2 (no cd hat)',
     component: <CulvertAdeleV2 />,
@@ -13,11 +14,17 @@ export default [
     component: <CulvertAdeleV1 />,
   },
   {
-    name: 'NW',
+    name: 'Dawn Warrior',
+    component: <CulvertDW />,
+  },
+  {
+    name: 'Night Walker',
     component: <CulvertNW />,
   },
   {
-    name: 'WA',
+    name: 'Wind Archer',
     component: <CulvertWA />,
   },
 ]
+
+export default culvert;

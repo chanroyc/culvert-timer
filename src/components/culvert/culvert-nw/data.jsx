@@ -32,7 +32,7 @@ export const data = [
     text: 'servant blessing',
   },
   {
-    time: 36,
+    time: 40,
     text: 'burst',
   },
   {
