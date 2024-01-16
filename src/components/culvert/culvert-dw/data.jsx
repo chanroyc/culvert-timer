@@ -16,6 +16,10 @@ export const data = [
     text: 'enter',
   },
   {
+    time: 110,
+    text: 'cosmos A B weapon jump'
+  },
+  {
     time: 65,
     text: 'Gene ROR swap',
   },
