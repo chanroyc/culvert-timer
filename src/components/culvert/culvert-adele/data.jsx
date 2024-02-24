@@ -56,19 +56,27 @@ export const data = [
     text: 'legacy infinity resonance rush'
   },
   {
-    time: 30,
-    text: 'origin',
-  },
-  {
     time: 22,
     text: 'shield',
   },
   {
-    time: 16,
+    time: 18,
+    text: 'ROR',
+  },
+  {
+    time: 17,
     text: 'storm reign',
   },
   {
-    time: 7,
-    text: 'ruin shard then bind on fatal',
+    time: 16,
+    text: 'ruin shard bind spin'
+  },
+  {
+    time: 12,
+    text: 'origin'
+  },
+  {
+    time: 3,
+    text: 'spin',
   },
 ]
