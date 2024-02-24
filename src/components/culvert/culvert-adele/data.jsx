@@ -60,23 +60,19 @@ export const data = [
     text: 'shield',
   },
   {
-    time: 18,
+    time: 17,
     text: 'ROR',
   },
   {
-    time: 17,
-    text: 'storm reign',
-  },
-  {
     time: 16,
-    text: 'ruin shard bind spin'
+    text: 'storm reign spin',
   },
   {
-    time: 12,
+    time: 13,
     text: 'origin'
   },
   {
-    time: 3,
-    text: 'spin',
+    time: 6,
+    text: 'ruin shard bind spin',
   },
 ]
