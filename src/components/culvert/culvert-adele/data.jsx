@@ -65,7 +65,11 @@ export const data = [
   },
   {
     time: 16,
-    text: 'storm reign spin',
+    text: 'storm reign',
+  },
+  {
+    time: 15,
+    text: 'spin'
   },
   {
     time: 13,
