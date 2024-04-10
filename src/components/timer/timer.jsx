@@ -3,20 +3,8 @@ import styled from 'styled-components';
 
 import { useSpeechSynthesis } from 'react-speech-kit'
 
-const Timer = ({seconds, data}) => {
-  const [active, setActive] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(seconds)
-
+const Timer = ({ active, timeLeft, setTimeLeft, resetTimer, data }) => {
   const { speak } = useSpeechSynthesis();
-
-  const resetTimer = () => {
-    setActive(false)
-    setTimeLeft(seconds)
-  }
-
-  const startTimer = () => {
-    setActive(true)
-  }
 
   useEffect(() => {
     if (active) {
@@ -40,8 +28,6 @@ const Timer = ({seconds, data}) => {
 
   return (
     <StyledTimer>
-      <button onClick={() => startTimer()}>Start</button>
-      <button onClick={() => resetTimer()}>Reset</button>
       <h2>Time Left: {timeLeft}</h2>
       <ul>
         {data.map(((res, i) => (

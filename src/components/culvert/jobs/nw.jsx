@@ -1,4 +1,4 @@
-export const data = [
+export default [
   {
     time: 126,
     text: 'enter'
@@ -24,8 +24,8 @@ export const data = [
     text: 'glory',
   },
   {
-    time: 55,
-    text: 'spider',
+    time: 56,
+    text: 'spider seren',
   },
   {
     time: 50,
