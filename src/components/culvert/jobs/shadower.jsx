@@ -1,10 +1,10 @@
 export default [
   {
-    time: 199,
+    time: 179,
     text: 'fatal',
   },
   {
-    time: 169,
+    time: 149,
     text: 'fatal epic adventurer',
   },
   {
