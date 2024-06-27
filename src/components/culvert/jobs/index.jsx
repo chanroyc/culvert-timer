@@ -1,4 +1,5 @@
 import adele from './adele';
+import bishop from './bishop';
 import dw from './dw';
 import nw from './nw';
 import wa from './wa';
@@ -8,6 +9,10 @@ export default [
   {
     name: 'Adele',
     data: adele,
+  },
+  {
+    name: 'Bishop',
+    data: bishop,
   },
   {
     name: 'Dawn Warrior',
