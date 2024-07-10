@@ -1,9 +1,5 @@
 export default [
   {
-    time: 209,
-    text: 'reliable memory',
-  },
-  {
     time: 164,
     text: 'epic adventurer',
   },
