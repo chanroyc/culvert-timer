@@ -1,4 +1,4 @@
-export default [
+export const v1 = [
   {
     time: 140,
     text: 'glory',
@@ -42,5 +42,52 @@ export default [
   {
     time: 22,
     text: 'cosmos A B ror origin',
+  },
+]
+
+export const v2 = [
+  {
+    time: 154,
+    text: 'glory',
+  },
+  {
+    time: 138,
+    text: 'fatal',
+  },
+  {
+    time: 124,
+    text: 'enter weapon aura',
+  },
+  {
+    time: 119,
+    text: 'blessing phalanx',
+  },
+  {
+    time: 110,
+    text: 'forge cosmos a b rift'
+  },
+  {
+    time: 52,
+    text: 'will seren blessing true sight',
+  },
+  {
+    time: 45,
+    text: 'eclipse',
+  },
+  {
+    time: 34,
+    text: 'impenetrable glory',
+  },
+  {
+    time: 30,
+    text: 'iframe ring swap',
+  },
+  {
+    time: 22,
+    text: 'cosmos a b ror orgin',
+  },
+  {
+    time: 5,
+    text: 'end eclipse',
   },
 ]

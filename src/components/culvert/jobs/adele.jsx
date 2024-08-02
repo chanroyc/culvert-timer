@@ -1,6 +1,6 @@
-export default [
+export const v1 = [
   {
-    time: 151,
+    time: 166,
     text: 'divine wrath',
   },
   {
@@ -9,7 +9,7 @@ export default [
   },
   {
     time: 120,
-    text: 'grandis resonance rush',
+    text: 'grandis',
   },
   {
     time: 104,
@@ -24,8 +24,87 @@ export default [
     text: 'shard grave',
   },
   {
-    time: 90,
-    text: 'resonance rush',
+    time: 75,
+    text: 'reign',
+  },
+  {
+    time: 62,
+    text: 'overdrive divine wrath',
+  },
+  {
+    time: 56,
+    text: 'spider seren',
+  },
+  {
+    time: 47,
+    text: 'reign',
+  },
+  {
+    time: 42,
+    text: 'grandis',
+  },
+  {
+    time: 38,
+    text: 'impenetrable skin'
+  },
+  {
+    time: 32,
+    text: 'legacy infinity'
+  },
+  {
+    time: 22,
+    text: 'A B',
+  },
+  {
+    time: 17,
+    text: 'ROR',
+  },
+  {
+    time: 16,
+    text: 'storm reign',
+  },
+  {
+    time: 15,
+    text: 'spin'
+  },
+  {
+    time: 13,
+    text: 'origin'
+  },
+  {
+    time: 6,
+    text: 'ruin shard bind spin',
+  },
+]
+
+export const v2 = [
+  {
+    time: 166,
+    text: 'fatal',
+  },
+  {
+    time: 151,
+    text: 'divine wrath overdrive'
+  },
+  {
+    time: 126,
+    text: 'aura fatal enter',
+  },
+  {
+    time: 120,
+    text: 'grandis',
+  },
+  {
+    time: 104,
+    text: 'storm reign',
+  },
+  {
+    time: 97,
+    text: 'ruin',
+  },
+  {
+    time: 96,
+    text: 'shard grave',
   },
   {
     time: 75,
@@ -33,7 +112,7 @@ export default [
   },
   {
     time: 62,
-    text: 'overdrive resonance rush',
+    text: 'overdrive',
   },
   {
     time: 56,
@@ -53,11 +132,11 @@ export default [
   },
   {
     time: 32,
-    text: 'legacy infinity resonance rush'
+    text: 'legacy infinity'
   },
   {
     time: 22,
-    text: 'shield',
+    text: 'A B',
   },
   {
     time: 17,
