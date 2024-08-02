@@ -1,4 +1,4 @@
-import { v1 as AdeleV1, v2 as AdeleV2 } from './adele';
+import Adele from './adele';
 import Bishop from './bishop';
 import { v1 as DawnWarriorV1, v2 as DawnWarriorV2 } from './dw';
 import NightWalker from './nw';
@@ -8,11 +8,7 @@ import Shadower from './shadower';
 export default [
   {
     name: 'Adele v1',
-    data: AdeleV1,
-  },
-  {
-    name: 'Adele v2',
-    data: AdeleV2,
+    data: Adele,
   },
   {
     name: 'Bishop',
