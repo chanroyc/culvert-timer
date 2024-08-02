@@ -7,7 +7,7 @@ import Shadower from './shadower';
 
 export default [
   {
-    name: 'Adele v1',
+    name: 'Adele',
     data: Adele,
   },
   {
