@@ -29,7 +29,7 @@ export default [
   },
   {
     time: 62,
-    text: 'overdrive divine wrath',
+    text: 'divine wrath overdrive',
   },
   {
     time: 52,
