@@ -1,6 +1,6 @@
 export default [
   {
-    time: 171,
+    time: 168,
     text: 'divine wrath overdrive',
   },
   {
@@ -9,7 +9,7 @@ export default [
   },
   {
     time: 126,
-    text: 'aura enter then cleave fatal',
+    text: 'aura fatal enter',
   },
   {
     time: 120,
