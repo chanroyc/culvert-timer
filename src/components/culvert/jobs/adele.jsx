@@ -12,10 +12,6 @@ export default [
     text: 'aura fatal enter',
   },
   {
-    time: 120,
-    text: 'grandis',
-  },
-  {
     time: 104,
     text: 'storm reign',
   },
