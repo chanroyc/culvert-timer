@@ -15,12 +15,8 @@ export default [
     data: Bishop,
   },
   {
-    name: 'Dawn Warrior v1',
-    data: DawnWarriorV1,
-  },
-  {
-    name: 'Dawn Warrior v2',
-    data: DawnWarriorV2
+    name: 'Dawn Warrior',
+    data: DawnWarrior,
   },
   {
     name: 'Night Walker',
