@@ -1,6 +1,6 @@
 import Adele from './adele';
 import Bishop from './bishop';
-import { v1 as DawnWarriorV1, v2 as DawnWarriorV2 } from './dw';
+import DawnWarrior from './dw';
 import NightWalker from './nw';
 import WindArcher from './wa';
 import Shadower from './shadower';

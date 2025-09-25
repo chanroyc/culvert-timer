@@ -1,93 +1,62 @@
-export const v1 = [
+export default [
   {
-    time: 140,
-    text: 'glory',
-  },
-  {
-    time: 135,
-    text: 'fatal',
-  },
-  {
-    time: 131,
+    time: 164,
     text: 'blessing',
+  },
+  {
+    time: 157,
+    text: 'forge glory',
+  },
+  {
+    time: 149,
+    text: 'rift impenetrable',
+  },
+  {
+    time: 134,
+    text: 'fatal',
   },
   {
     time: 126,
-    text: 'enter',
+    text: 'enter eclipse a b cosmos Phalanx'
   },
   {
-    time: 110,
-    text: 'cosmos A B weapon jump'
+    time: 109,
+    text: 'end eclipse',
   },
   {
-    time: 65,
-    text: 'Gene ROR swap',
-  },
-  {
-    time: 60,
-    text: 'cosmic forge',
-  },
-  {
-    time: 56,
-    text: 'spider seren',
-  },
-  {
-    time: 45,
-    text: 'blessing',
-  },
-  {
-    time: 41,
-    text: 'rift eclipse',
-  },
-  {
-    time: 22,
-    text: 'cosmos A B ror origin',
-  },
-]
-
-export const v2 = [
-  {
-    time: 154,
+    time: 97,
     text: 'glory',
   },
   {
-    time: 138,
-    text: 'fatal',
+    time: 87,
+    text: 'Phalanx',
   },
   {
-    time: 124,
-    text: 'enter weapon aura',
+    time: 71,
+    text: 'Cosmos A B',
   },
   {
-    time: 119,
-    text: 'blessing phalanx',
-  },
-  {
-    time: 110,
-    text: 'forge cosmos a b rift'
-  },
-  {
-    time: 52,
-    text: 'will seren blessing true sight',
+    time: 55,
+    text: 'gene iframe will seren Phalanx Blessing, ring swap',
   },
   {
     time: 45,
-    text: 'eclipse',
+    text: 'Forge ROR Orgin',
   },
   {
-    time: 34,
-    text: 'impenetrable glory',
+    time: 37,
+    text: 'rift impenetrable glory',
   },
   {
-    time: 30,
-    text: 'iframe ring swap',
+    time: 14,
+    text: 'eclipse a b Cosmos',
   },
   {
-    time: 22,
-    text: 'cosmos a b ror orgin',
-  },
-  {
-    time: 5,
+    time: 14,
     text: 'end eclipse',
   },
+  {
+    time: 6,
+    text: 'end eclipse',
+  }
 ]
